@@ -3,3 +3,6 @@ Console.WriteLine("привет");
 
 
 Console.WriteLine("пока");
+
+
+Console.WriteLine("ky ky");
